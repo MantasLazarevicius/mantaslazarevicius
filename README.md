@@ -1,4 +1,6 @@
 ### Hi there 👋
+Welcome to my GitHub profile! Thanks for stopping by. Dive into the details below to get to know me better.
+
 As a former project manager, I've transitioned from crafting project plans and overseeing quality control to navigating the realm of data analytics. Swapping Gantt charts for SQL queries and dashboards, I'm on a journey to master the art of data-driven decision-making.
 <!--
 **MantasLazarevicius/mantaslazarevicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
