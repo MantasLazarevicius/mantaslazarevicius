@@ -4,6 +4,8 @@ Welcome to my GitHub profile! Thanks for stopping by. Dive into the details belo
 As a former project manager, I've transitioned from crafting project plans and overseeing quality control to navigating the realm of data analytics. Swapping Gantt charts for SQL queries and dashboards, I'm on a journey to master the art of data-driven decision-making.
 
 Currently, I'm sharpening my skills as a learner at Turing College, where I'm delving into the world of SQL, Tableau, and Python.
+
+![Turing College background photo](https://github.com/MantasLazarevicius/mantaslazarevicius/blob/main/gh%20bcgr.png?raw=true)
 <!--
 **MantasLazarevicius/mantaslazarevicius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
